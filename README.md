@@ -28,7 +28,7 @@ Project Highlights
 ### 1. Home Page
 The landing page where users can explore the purpose and offerings of the platform. image
 
-![alt text](image.png)
+![home page](https://github.com/user-attachments/assets/d207a6ca-1d7c-4251-8dfb-ee0059bd6baf)
 
 ### 2. Experience
 Users can share their personal stories and read about others' experiences. image
