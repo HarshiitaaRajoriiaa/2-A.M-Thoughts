@@ -26,45 +26,40 @@ Project Highlights
 * You can go thorough figma link also : [Figma](https://www.figma.com/design/uxlpjItm3RWABuHZttWTk9/Untitled?node-id=0-1&t=pebRLU2qeVDdAjG2-1)
 
 ### 1. Home Page
-The landing page where users can explore the purpose and offerings of the platform. image
+The landing page where users can explore the purpose and offerings of the platform. 
 
 ![home page](https://github.com/user-attachments/assets/d207a6ca-1d7c-4251-8dfb-ee0059bd6baf)
 
 ### 2. Experience
-Users can share their personal stories and read about others' experiences. image
+Users can share their personal stories and read about others' experiences. 
 
-![alt text](image-1.png)
+![experience](https://github.com/user-attachments/assets/ce2fa7ac-40d4-4d4d-96ea-9800188745b5)
 
 ### 3. Let's Talk
-Facilitates open conversations and discussions on various topics. image
+Facilitates open conversations and discussions on various topics. 
 
-![alt text](image-2.png)
+![Talk](https://github.com/user-attachments/assets/0c371839-7cb8-4cd1-9e09-1adc6ccffed5)
+
 
 ### 4. Counseling
-(Coming Soon) A section dedicated to providing professional counseling and guidance. image
+(Coming Soon) A section dedicated to providing professional counseling and guidance.
 
-![alt text](image-3.png)
+![Counselling](https://github.com/user-attachments/assets/2156b7ce-4d15-4704-9ea4-0c13a6a4d568)
+
 
 ### 5. About
-Information about the mission and vision of "2 A.M. Thoughts." image
+Information about the mission and vision of "2 A.M. Thoughts."
 
-![alt text](image-4.png)
+![About](https://github.com/user-attachments/assets/c9868b27-6d79-4a23-b7e5-fbd08bcd1318)
+
 
 ### 6. Support
-Resources and support options for users in need. image
+Resources and support options for users in need. 
 
-![alt text](image-5.png)
+![Support](https://github.com/user-attachments/assets/3b60b807-6bd5-4492-ad4b-0a07a2c3622e)
 
-### 7. Login/signup
-
-
-
-## 7. Project Structure
-HTML: Used for creating the structure and content of the web pages.
-CSS: Used for styling and enhancing the visual appearance of the web pages.
-## 8. Getting Started
+## 9. Getting Started
 To get started with the project, follow these steps:
-
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Open the `index.html` file in your preferred web browser to view the project.
